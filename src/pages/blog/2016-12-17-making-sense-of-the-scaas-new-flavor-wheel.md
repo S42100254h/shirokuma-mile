@@ -1,34 +1,197 @@
 ---
 templateKey: blog-post
-title: test
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+title: アメックスグリーンの紹介キャンペーン【２３，０００ポイント】
+date: 2020-08-02T11:06:25.898Z
+description: " "
 featuredpost: false
 featuredimage: /img/paku1210a1130_tp_v4.jpg
 tags:
-  - flavor
-  - tasting
+  - アメックス
 ---
 ![flavor wheel](/img/paku1210A1130_TP_V4.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+**「アメックスグリーンを発行したいけど、どのキャンペーンを利用したら良いのか分からない」**
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+そんな方に向けてこの記事を書いています。
 
-## What the updates mean to you
+アメックスグリーンは、カッコよさもありますが、保険も充実しており、旅行の際に活躍してくれます。
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+券面がかっこよくてステータス性のあるカードを持ちたい」と思って、私もこのカードを申し込んで２年半程利用させていただきました。
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+本記事では、アメックスグリーンに関する各キャンペーンを比較し、あなたが一番お得にお申込みできる方法を紹介するとともに私が実践した活用方法を紹介したいと思います。
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+## アメリカン・エキスプレス・カード　キャンペーン比較
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+アメックスグリーンの新規入会キャンぺーンは、大きく分けて3つの方法があります。
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+### アメリカン・エキスプレス・カードを公式サイトから申し込む
+
+![](https://shirokuma-mile.com/wp-content/uploads/2018/09/アメックスグリーン_公式-300x171.png)
+
+ご覧のように、アメックスの公式サイトから申し込むと**18,000ポイント**が最大です。
+
+・入会後１ヶ月以内にカードを3回以上の利用で500ポイント
+
+・入会後3ヶ月以内に、合計20万円（税込）の利用で1,500ポイント
+
+・入会後6ヶ月以内に、合計60万円（税込）の利用で10,000ポイント
+
+・「100円＝1ポイント獲得」なので、60万円の利用で6,000ポイント
+
+### ポイントサイト経由で申し込む
+
+続いては、定番のポイントサイトを経由した場合を比較してみます。
+
+| <span style="color: #ffffff;">**ポイントサイト名**</span> | <span style="color: #ffffff;">**獲得ANAマイル（ソラチカルート）**</span> |
+| ちょびリッチ | 810マイル |
+| ポイントタウン | 810マイル |
+| モッピー | 810マイル |
+| ハピタス | 810マイル |
+
+代表的な４サイトを比較してみた結果、公式サイトで申し込むよりも810マイル多く獲得できます。
+
+ポイントサイト経由ですと、カード作成後3ヶ月以内に合計で、18,000マイル相当のアメックスポイントが獲得できるキャンペーンがあります。
+
+つまりは、3ヶ月以内に60万円を利用して、最大18,810マイル（ソラチカルートで換算）を獲得することができます。
+
+### 紹介キャンペーンで申し込む
+
+紹介キャンペーンを利用することで、もっとも**多くのポイントをゲット**することができます。
+
+ボーナスポイントに関しては、以下の通りです。
+
+1.　入会後3ヶ月以内に1,000円以上のご利用3回で、500ボーナスポイントをゲット
+
+2.　入会後3ヶ月以内に合計20万円以上のご利用で、さらに6,500ボーナスポイントをゲット
+
+3.　入会後3ヶ月以内に合計60万円以上のご利用で、さらに10,000ボーナスポイントをゲット
+
+4.　「100円＝1ポイント獲得」なので、60万円の利用で6,000マイル相当のポイントをゲット
+
+**合計で23,000マイル相当のポイントを獲得することができます。**
+
+紹介キャンペーンを利用する場合は、こちらをクリック↓
+
+[アメックスグリーンを申し込む](http://amex.jp/share/sDGxM?XLINK=MYCP)
+
+※デフォルトはANAアメックスゴールドなので、その他のカードからグリーンを選択してください。
+
+## アメリカン・エキスプレス・カードの特徴
+
+### メンバーシップリワードが貯まる
+
+アメックスグリーンは利用料金100円＝1ポイント貯めることができます。（還元率1%）
+
+貯めたポイントは航空会社のマイルに交換して特典航空券に変えることや、提携ホテルグループのポイントに交換して高級ホテルに無料宿泊することができます。
+
+マイルを交換できる航空会社は15社、ホテルグループは2社になります。
+
+![](https://shirokuma-mile.com/wp-content/uploads/2018/09/アメックス提携航空会社・ホテルグループ.png)
+
+この中でもオススメなのは、**British Airways**と**ANA**です。
+
+British Airwaysは、同じワンワールドアライアンスのJALの特典航空券を取ることができ、JALマイルで予約するよりも少ないマイルで特典航空券を取ることが出来る点がオススメです。
+
+British Airwaysの詳細については、以下をご確認ください。
+
+[blogcard url="https://shirokuma-mile.com/british-airways/"]
+
+### 海外旅行保険
+
+他のゴールドカードと比べても引けをとらない旅行保険が設定されています。
+
+アメックスグリーンには、最高5,000万円補償の海外旅行傷害保険が利用付帯しています。利用付帯とはカードで航空券や旅行代金をカードで支払うと適用されるサービスです。
+
+また、家族特約は18歳未満の未成年の子供も対象</span>です。そのため、アメックスグリーン1枚で家族全員に海外旅行傷害保険を付帯させることができます。
+
+| <span style="color: #ffffff;">**補償内容**</span> | <span style="color: #ffffff;">**最高補償金額**</span> | <span style="color: #ffffff;">**家族特約の最高補償額**</span> |
+| 傷害死亡保険・傷害後遺障害保険 | 5,000万円 | 1,000万円 |
+| 傷害治療費用 | 100万円 | 100万円 |
+| 疾病治療費用 | 100万円 | 100万円 |
+| 賠償責任保険 | 3,000万円 | 3,000万円 |
+| 携行品傷害保険 | 年間最高100万円（1旅行中最高30万円） | 年間最高100万円（1旅行中最高30万円）</span> |
+| 救援者費用 | 200万円 | 200万円 |
+
+### 国内旅行保険
+
+アメックスグリーンは最高5,000万円補償の国内旅行傷害保険が付帯します。国内旅行傷害保険も海外旅行傷害保険と同様に、カードで航空券や旅行代金を支払うと適用される利用付帯です。
+
+また、国内旅行傷害保険は海外旅行傷害保険と同様に家族特約つきで、補償額は傷害死亡保険と後遺障害保険の最高1,000万円のみです。
+
+| <span style="color: #ffffff;">**補償内容**</span> | <span style="color: #ffffff;">**最高補償金額**</span> |
+| 傷害死亡保険・傷害後遺障害保険 | 5,000万円（家族特約は1,000万円） |
+
+### 空港ラウンジの利用
+
+**国内28空港・39か所の空港ラウンジ**に加え、**海外2か国・2か所の空港ラウンジ**を無料で利用することができます。
+
+<span style="font-size: 12pt;">空港ラウンジを無料で利用することができるのは、本カード会員だけでなく、****同伴者も1名まで無料****で利用することができます。以下が利用可能なラウンジ一覧となります。
+
+| <span style="color: #ffffff;">**地域**</span> | <span style="color: #ffffff;">**空港名**</span> | <span style="color: #ffffff;">**ラウンジ名**</span> | <span style="color: #ffffff;">**場所 / 営業時間**</span> |
+| 北海道 | 新千歳空港 | スーパーラウンジ | 国内線旅客ターミナルビル3階/7:30～20:30 |
+| 函館空港 | ビジネスラウンジ『A Spring』 | 国内線旅客ターミナル2階/8:00～最終便 最終搭乗案内まで(19:30頃) |
+| 東北 | 青山空港 | エアポートラウンジ | ターミナルビル2階/6：40～20：35 |
+| 秋田空港 | ロイヤルスカイ | 国内線旅客ターミナルビル2階/6:55～20:35 |
+| 仙台空港 | ビジネスラウンジ | ビジネスラウンジウエストサイド(1階)、イーストサイド(3階)/8:30～19:30 |
+| 関東 | 羽田空港 | Sky Lounge | 国際線ターミナル　4階/24時間営業 |
+| 第1ターミナル エアポートラウンジ / POWER LOUNGE | 中央：第1ターミナル1階/6:00～20:00 北：2階/6:00～20:30 南：2階/6:00～21:00 |
+| 第2ターミナル エアポートラウンジ / POWER LOUNGE | 第2ターミナル 2階/6:00～20:00 3階/6:00～20:00 4階/6:00～21:30 |
+| 成田国際空港 | IASS EXECUTIVE LOUNGE 1 | 第1旅客ターミナル本館5階/7:00～21:00 |
+| IASS EXECUTIVE LOUNGE 2 | 第2旅客ターミナル本館4階/7:00～21:00 |
+| 北陸 | 新潟空港 | エアリウムラウンジ | 旅客ターミナルビル 3階/7:10～19:10 |
+| 富山空港 | ラウンジらいちょう | 旅客ターミナルビル 2階/6：20～20:00 |
+| 中部 | 中部国際空港 | プレミアムラウンジ　セントレア | 旅客ターミナルビル3階 中央/7:20～20:30 |
+| 小松空港 | スカイラウンジ白山 | 国内線旅客ターミナルビル2階/7:00～19：40 |
+| 関西 | 大阪国際空港(伊丹空港) | ラウンジオーサカ | 中央ブロック3階/6:30～20:00(入室は19:30まで) |
+| 関西国際空港 | 比叡 | 旅客ターミナル3階 北側/8:00～21:00 |
+| 六甲、アネックス六甲 | 北ウイング2階/8:00～21:00 |
+| 金剛 | 南ウイング2階/8:00～21:00 |
+| 神戸空港 | ラウンジ神戸 | 旅客ターミナルビル2階 搭乗待合室内/6:30～21:00(最終便出発時間の10分前まで) |
+| 中国・四国 | 岡山空港 | ラウンジマスカット | ターミナルビル 3階/6:30～最終出発便20分前 |
+| 広島空港 | ビジネスラウンジ　もみじ | 国内線2階出発ロビーJALカウンター隣/7:00～20:30 |
+| 米子空港 | ラウンジDAISEN | 2F/382便出発1時間前～390便出発15分前まで |
+| 山口宇部空港 | きらら | 国内線旅客ターミナル2階/7:15～20:00 |
+| 高松空港 | ラウンジ 讃岐 | 旅客ターミナルビル2階/6:15～ 最終便出発時間20分前まで |
+| 松山空港 | ビジネスラウンジ スカイラウンジ | ターミナルビル2階/7:00～19:30 3階/11:00～19:30 |
+| 徳島空港 | エアポートラウンジ　ヴォルティス | ターミナルビル 3階/始発便出発1時間前から最終便出発15分前まで |
+| 九州・沖縄 | 北九州空港 | ラウンジひまわり | 2階 待合室内/7:00～21:00 |
+| 福岡空港 | くつろぎのラウンジTIME | 第2ターミナル3階/6:30～20:30 |
+| 長崎空港 | ビジネスラウンジアザレア | 旅客ターミナルビル 2階/6:45～20:30 |
+| 大分空港 | ラウンジくにさき | 旅客ターミナルビル 2階搭乗待合室内/6:40～最終便出発の15分前 |
+| 熊本空港 | ラウンジ「ASO」 | 旅客ターミナルビル 2階/始発便チェックイン開始～最終便出発時刻まで |
+| 鹿児島空港 | スカイラウンジ 菜の花 | 国内線ターミナル内 2階/7:00～20:00(年中無休) |
+| 那覇空港 | ラウンジ華～hana～ | 1階到着ロビー/8:00～20:00 |
+| 海外 | ホノルル国際空港(ハワイ) | IASS EXECUTIVE LOUNGE | 保安区域内(出国審査後)7:30～13:30/14:00～18:00 |
+| 仁川国際空港(韓国) | MATINA | 旅客ターミナル4階/7:00～21:00 |
+
+### 限度額に一律の制限なし
+
+限度額に一律の制限がないということで、いくらでも制限無しで利用できるかというとそういう意味ではありません。むしろ初期利用限度額は低めに設定される傾向にあります。
+
+他のクレジットカードと同じように個別に与信枠は設定されていますが、**事前にコールセンターに連絡のうえ「デポジット入金」を利用することで実質無制限**でカードを利用することができます。
+
+そんな高額の買い物をしないから大丈夫という方もいるかと思いますが、結婚式や車の購入など意外と高額を決済する機会はあるので、アメックスカードを１枚持っておくと安心です。
+
+### ぐるなびでポイントを貯める
+
+ぐるなびのサイトを経由してお店を予約して来店するだけで、**200ポイント×人数**のポイントを貯めることができます。
+
+この方法であれば、**予約するだけでポイントが貯まるため、飲み会費用以外に新たな出費はありません。**
+
+陸マイラー活動では、いかに費用をかけずにポイントを貯めていくのかということも大切になりますので、この方法を利用してもらえると良いかと思います。
+
+![](https://shirokuma-mile.com/wp-content/uploads/2018/09/ぐるなび_ポイントが貯まるまでの流れ.png)
+
+## まとめ
+
+アメックスグリーンであれば、年会費を抑えることができ陸マイラー活動を始めるための１枚としてオススメです。
+
+海外保険が充実しており、空港ラウンジも利用することができるので、旅行をする上でも安心です。この機会にアメックスグリーンの利用を検討してみてください。
+
+紹介キャンペーンをご利用される方は、以下をクリック↓
+
+[アメックスグリーンを申し込む](http://amex.jp/share/sDGxM?XLINK=MYCP)
+
+※デフォルトはANAアメックスゴールドなので、その他のカードからグリーンを選択してください。
+
+![](https://shirokuma-mile.com/wp-content/uploads/2018/09/文末ロゴ３-300x61.png)
