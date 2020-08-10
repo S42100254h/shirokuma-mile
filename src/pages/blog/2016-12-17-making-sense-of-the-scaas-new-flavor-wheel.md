@@ -26,7 +26,7 @@ tags:
 
 ### アメリカン・エキスプレス・カードを公式サイトから申し込む
 
-![](https://shirokuma-mile.com/wp-content/uploads/2018/09/アメックスグリーン_公式-300x171.png)
+![american express green oficial](/img/アメックスグリーン_公式.png)
 
 ご覧のように、アメックスの公式サイトから申し込むと**18,000ポイント**が最大です。
 
@@ -87,7 +87,7 @@ tags:
 
 マイルを交換できる航空会社は15社、ホテルグループは2社になります。
 
-![](https://shirokuma-mile.com/wp-content/uploads/2018/09/アメックス提携航空会社・ホテルグループ.png)
+![list of airlines](/img/アメックス_マイル移行可能航空会社.png)
 
 この中でもオススメなのは、**British Airways**と**ANA**です。
 
@@ -184,7 +184,7 @@ British Airwaysの詳細については、以下をご確認ください。
 
 陸マイラー活動では、いかに費用をかけずにポイントを貯めていくのかということも大切になりますので、この方法を利用してもらえると良いかと思います。
 
-![](https://shirokuma-mile.com/wp-content/uploads/2018/09/ぐるなび_ポイントが貯まるまでの流れ.png)
+![gurunavi](/img/ぐるなび_ポイントが貯まるまでの流れ.png)
 
 ## まとめ
 
@@ -198,4 +198,4 @@ British Airwaysの詳細については、以下をご確認ください。
 
 ※デフォルトはANAアメックスゴールドなので、その他のカードからグリーンを選択してください。
 
-![](https://shirokuma-mile.com/wp-content/uploads/2018/09/文末ロゴ３-300x61.png)
+![end of sentence](/img/文末ロゴ３.png)
